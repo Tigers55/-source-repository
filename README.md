@@ -1,4 +1,5 @@
-# Introduction to Git and GitHub
+
+.........................................# Introduction to Git and GitHub
 footer-changed-to-2022
 ## Simple Interest Calculator
 
